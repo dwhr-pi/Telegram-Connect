@@ -1,3 +1,7 @@
+telegram su alexa - Suchen https://www.bing.com/search?&pc=HWMB&form=HWMBFC&q=telegram+su+Alexa  
+Alexa-Skill für den Telegram Messenger https://www.mobiflip.de/shortnews/alexa-skill-telegram/  
+
+
 # Telegram Connect
 [Telegram Connect](https://github.com/LorenzHW/Telegram-connect) is an open source  Alexa Skill that connects Alexa with the [Telegram Messenger](https://telegram.org/).
 
