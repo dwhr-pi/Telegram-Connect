@@ -1,5 +1,6 @@
 telegram su alexa - Suchen https://www.bing.com/search?&pc=HWMB&form=HWMBFC&q=telegram+su+Alexa  
 Alexa-Skill für den Telegram Messenger https://www.mobiflip.de/shortnews/alexa-skill-telegram/  
+Connect your Amazon Alexa to Telegram integration in 2 minutes | Zapier https://zapier.com/apps/amazon-alexa/integrations/telegram  
 
 
 # Telegram Connect
